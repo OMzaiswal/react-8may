@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <div style={styles.container}>
-      <h1>Todo App1</h1>
+      <h1>Todo Application</h1>
 
       <div style={styles.inputBox}>
         <input
